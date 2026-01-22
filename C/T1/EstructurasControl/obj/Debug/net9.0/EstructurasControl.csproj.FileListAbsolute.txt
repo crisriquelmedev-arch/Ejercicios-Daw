@@ -1,0 +1,14 @@
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\bin\Debug\net9.0\EstructurasControl.exe
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\bin\Debug\net9.0\EstructurasControl.deps.json
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\bin\Debug\net9.0\EstructurasControl.runtimeconfig.json
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\bin\Debug\net9.0\EstructurasControl.dll
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\bin\Debug\net9.0\EstructurasControl.pdb
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.AssemblyInfoInputs.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.AssemblyInfo.cs
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.csproj.CoreCompileInputs.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.dll
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\refint\EstructurasControl.dll
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.pdb
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\EstructurasControl.genruntimeconfig.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T1\EstructurasControl\obj\Debug\net9.0\ref\EstructurasControl.dll
