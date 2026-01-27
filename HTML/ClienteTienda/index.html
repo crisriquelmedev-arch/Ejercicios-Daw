@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Hero</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <header>
+        <nav class="bg-white shadow-md">
+            <div class="max-w-6xl mx-auto px-4">
+                <div class="flex justify-between items-center py-4">
+                    <div class="text-2xl font-bold text-blue-500">Proyecto Hero</div>
+                    <div>
+                        <a href="#" class="text-gray-800 hover:text-blue-500 mx-4">Inicio</a>
+                        <a href="#" class="text-gray-800 hover:text-blue-500 mx-4">Características</a>
+                        <a href="#" class="text-gray-800 hover:text-blue-500 mx-4">Precios</a>
+                        <a href="#" class="text-gray-800 hover:text-blue-500 mx-4">Contacto</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="">
+        <section class="bg-blue-500 text-white  mb-12 shadow-md min-h-96 flex items-center">
+            <div class="max-w-6xl mx-auto px-4 text-center">
+                <h2 class="text-4xl font-bold mb-4">Bienvenido a Proyecto Hero</h2>
+                <p class="text-lg mb-8">La solución definitiva para la gestión de proyectos y colaboración en equipo.</p>
+                <a href="#" class="bg-white text-blue-500 py-3 px-6 rounded hover:bg-gray-100">Comienza Ahora</a>
+            </div>
+        </section>
+
+        <section class="py-20">
+            <div class="max-w-6xl mx-auto px-4">
+                <h2 class="text-3xl font-bold text-center mb-12">Características Principales</h2>
+                <div class="grid md:grid-cols-3 gap-8">
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center hover:bg-gray-100 transformation">
+                        <h3 class="text-xl font-semibold mb-4">Gestión de Tareas</h3>
+                        <p>Organiza y asigna tareas fácilmente con nuestra intuitiva interfaz.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center hover:bg-gray-100 transition">
+                        <h3 class="text-xl font-semibold mb-4">Colaboración en Tiempo Real</h3>
+                        <p>Trabaja junto a tu equipo con herramientas de comunicación integradas.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center hover:bg-gray-100 transition">
+                        <h3 class="text-xl font-semibold mb-4">Informes y Análisis</h3>
+                        <p>Genera informes detallados para evaluar el progreso de tus proyectos.</p>
+                    </div>
+                </div>
+        </section>
+        <section>
+            <div class="bg-gray-200 py-20">
+                <div class="max-w-6xl mx-auto px-4 text-center">
+                    <h2 class="text-3xl font-bold mb-4">Precios</h2>
+                    <p class="text-lg mb-8">Elige el plan que mejor se adapte a tus necesidades.</p>
+                    <div class="grid md:grid-cols-3 gap-8">
+                        <div class="bg-white p-6 rounded-lg shadow-md">
+                            <h3 class="text-xl font-semibold mb-4">Básico</h3>
+                            <p class="text-4xl font-bold mb-4">$9/mes</p>
+                            <ul class="mb-6">
+                                <li class="mb-2">Gestión de tareas</li>
+                                <li class="mb-2">Colaboración en equipo</li>
+                                <li class="mb-2">Informes básicos</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-6 rounded-lg shadow-md">
+                            <h3 class="text-xl font-semibold mb-4">Profesional</h3>
+                            <p class="text-4xl font-bold mb-4">$19/mes</p>
+                            <ul class="mb-6">
+                                <li class="mb-2">Gestión de tareas</li>
+                                <li class="mb-2">Colaboración en equipo</li>
+                                <li class="mb-2">Informes avanzados</li>
+                                <li class="mb-2">Soporte prioritario</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-6 rounded-lg shadow-md">
+                            <h3 class="text-xl font-semibold mb-4">Empresarial</h3>
+                            <p class="text-4xl font-bold mb-4">$29/mes</p>
+                            <ul class="mb-6">
+                                <li class="mb-2">Gestión de tareas</li>
+                                <li class="mb-2">Colaboración en equipo</li>
+                                <li class="mb-2">Informes avanzados</li>
+                                <li class="mb-2">Soporte prioritario</li>
+                                <li class="mb-2">Personalización de funcionalidades</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="max-w-6xl mx-auto px-4 py-20 text-center">
+                <h2 class="text-3xl font-bold mb-4">Contáctanos</h2>
+                <p class="text-lg mb-8">¿Tienes preguntas? Estamos aquí para ayudarte.</p>
+                <form class="max-w-xl mx-auto">
+                    <div class="mb-4">
+                        <input type="text" placeholder="Nombre" class="w-full p-3 border border-gray-300 rounded">
+                    </div>
+                    <div class="mb-4">
+                        <input type="email" placeholder="Correo Electrónico" class="w-full p-3 border border-gray-300 rounded">
+                    </div>
+                    <div class="mb-4">
+                        <textarea placeholder="Mensaje" class="w-full p-3 border border-gray-300 rounded h-32"></textarea>
+                    </div>
+                    <button type="submit" class="bg-blue-500 text-white py-3 px-6 rounded hover:bg-blue-600">Enviar Mensaje</button>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer class="mt-12">
+        <div class="p-10 text-center p-3  mt-8 text-gray-600 font size-sm">
+            &copy; 2026 Proyecto Hero.
+        </div>
+    </footer>
+        
+</body>
+</html>
