@@ -71,8 +71,12 @@
                     {
                         if (buscarUsuario.VerificarPassword(passLogin!))
                         {
-                            Console.Write("Sesion iniciada correctamente" );
+                            Console.WriteLine("Sesion iniciada correctamente" );
                             usuarioActual = buscarUsuario;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Contraseña incorrecta");
                         }
                     }
 
@@ -90,7 +94,7 @@
             //inicio sesión usuario 
             while(usuarioActual != null && isRuning == false)
             {
-                Console.WriteLine("Bienvenido, seleccione una opción:");
+                Console.WriteLine("Seleccione una opción:");
                 Console.WriteLine("1 Registrar entrenamiento");
                 Console.WriteLine("2 Ver entrenamientos");
                 Console.WriteLine("3 Vaciar entrenamientos");
