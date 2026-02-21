@@ -1,0 +1,5 @@
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Diccionario\AgendaDicc\obj\Debug\net9.0\AgendaDicc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Diccionario\AgendaDicc\obj\Debug\net9.0\AgendaDicc.AssemblyInfoInputs.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Diccionario\AgendaDicc\obj\Debug\net9.0\AgendaDicc.AssemblyInfo.cs
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Diccionario\AgendaDicc\obj\Debug\net9.0\AgendaDicc.csproj.CoreCompileInputs.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Diccionario\AgendaDicc\obj\Debug\net9.0\AgendaDicc.sourcelink.json
