@@ -19,10 +19,19 @@ public class Usuario
         return Entrenamientos;
     }
     
-    public  string ObtenerCorreo()
+    public string ObtenerCorreo()
     {
         return Correo;
     }
 
+    public bool VerificarPassword(string pass)
+    {
+        return pass == Password;
+    }
+
+   public void VaciarEntrenamientos()
+    {
+        Entrenamientos.Clear();
+    }
 
 }
