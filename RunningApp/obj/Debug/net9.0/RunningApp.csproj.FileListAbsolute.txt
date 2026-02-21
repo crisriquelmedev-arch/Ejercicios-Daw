@@ -7,7 +7,6 @@ C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\Runnin
 C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\RunningApp.AssemblyInfoInputs.cache
 C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\RunningApp.AssemblyInfo.cs
 C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\RunningApp.csproj.CoreCompileInputs.cache
-C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\RunningApp.sourcelink.json
 C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\RunningApp.dll
 C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\refint\RunningApp.dll
 C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\Evaluable_2_Fund\RunningApp\obj\Debug\net9.0\RunningApp.pdb

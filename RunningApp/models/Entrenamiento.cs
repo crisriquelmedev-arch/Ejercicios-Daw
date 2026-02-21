@@ -9,5 +9,9 @@ public class Entrenamiento
         this.Tiempo = tiempo;
     }
 
+    public override string ToString()
+    {
+        return $"{Distancia} km en {Tiempo}";
+    }
 
 }
