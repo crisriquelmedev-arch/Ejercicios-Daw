@@ -88,11 +88,6 @@ StyleCopReport.xml
 *.pgc
 *.pgd
 *.rsp
-<<<<<<< HEAD
-# but not Directory.Build.rsp, as it configures directory-level build defaults
-!Directory.Build.rsp
-=======
->>>>>>> ab51e496e063c979f796fcd7f7d7a48bc0b20a91
 *.sbr
 *.tlb
 *.tli

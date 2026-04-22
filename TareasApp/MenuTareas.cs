@@ -82,6 +82,19 @@ public class MenuTareas
         Console.WriteLine("Si existía, la tarea ha sido eliminada.");
     }
 
+    public static void ExportarTareasTXT(SistemaTareas sistema)
+        {
+            try
+            {
+                sistema.ExportarTareas(ArchivoIntercambio);
+                Console.WriteLine("Tareas exportadas a " + ArchivoIntercambio);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al exportar las tareas: " + ex.Message);
+            }   
+        }
+
      public static void ImportarTareasTXT(SistemaTareas sistema)
     {
         try
@@ -102,18 +115,5 @@ public class MenuTareas
             Console.WriteLine("Error al importar las tareas: " + ex.Message);
         }
     }
-
-        public static void ExportarTareasTXT(SistemaTareas sistema)
-        {
-            try
-            {
-                sistema.ExportarTareas(ArchivoIntercambio);
-                Console.WriteLine("Tareas exportadas a " + ArchivoIntercambio);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error al exportar las tareas: " + ex.Message);
-            }   
-        }
-  
+          
 }
