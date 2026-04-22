@@ -1,0 +1,14 @@
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\bin\Debug\net9.0\Estructuras.exe
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\bin\Debug\net9.0\Estructuras.deps.json
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\bin\Debug\net9.0\Estructuras.runtimeconfig.json
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\bin\Debug\net9.0\Estructuras.dll
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\bin\Debug\net9.0\Estructuras.pdb
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.AssemblyInfoInputs.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.AssemblyInfo.cs
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.dll
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\refint\Estructuras.dll
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.pdb
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\Estructuras.genruntimeconfig.cache
+C:\Users\cris_\OneDrive\Documents\GitHub\EjerciciosDAW\C\T2\Estructuras\obj\Debug\net9.0\ref\Estructuras.dll

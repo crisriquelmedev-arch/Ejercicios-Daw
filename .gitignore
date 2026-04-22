@@ -88,8 +88,11 @@ StyleCopReport.xml
 *.pgc
 *.pgd
 *.rsp
+<<<<<<< HEAD
 # but not Directory.Build.rsp, as it configures directory-level build defaults
 !Directory.Build.rsp
+=======
+>>>>>>> ab51e496e063c979f796fcd7f7d7a48bc0b20a91
 *.sbr
 *.tlb
 *.tli
@@ -385,6 +388,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -424,6 +428,13 @@ autom4te.cache/
 tarballs/
 test-results/
 
+<<<<<<< HEAD
+=======
+# Mac bundle stuff
+*.dmg
+*.app
+
+>>>>>>> ab51e496e063c979f796fcd7f7d7a48bc0b20a91
 # content below from: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
 # General
 .DS_Store
